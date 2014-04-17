@@ -1,3 +1,8 @@
+"""
+Given a list of words and an input word, find all words from the list
+that are at most delta away from the input word
+"""
+
 WORDS = ['cat', 'dog', 'cot', 'tat', 'frog', 'cart', 'colt', 'cottage']
 
 def search(input_word, delta):
